@@ -1,6 +1,6 @@
 # The Shared Library of Wisdom
 
-<img width="399" height="265" alt="Image" src="https://github.com/user-attachments/assets/73ff278b-d518-450d-98d5-2eeb26c517a4" />
+<img width="399" height="265" alt="Image" src="https://github.com/user-attachments/assets/3b51ebf4-38a7-4b23-b956-a6363baaba51" />
 
 ## Table of Contents
 - [About](#about)
