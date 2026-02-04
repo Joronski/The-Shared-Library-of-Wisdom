@@ -11,6 +11,7 @@
 - 📄 [Project Description](#project-description)
 - 🧭 [How to Read the Library](#how-to-read-the-library)
 - 🛠️ [How to Use the Library](#how-to-use-the-library)
+- 👥 [Contributors](#contributors)
 
 ## 📖 About
 A CCS112 - Application and Emerging Technologies Laboratory Activity 3: **Collaborative Markdown-based digital encyclopedia built using Git workflows.**
@@ -156,3 +157,29 @@ valuable reference tool for learners, developers, and educators, bridging the ga
 2. Use `object` for shared or singleton functionality.
 3. Use `data class` for structured data models.
 4. Follow existing examples in the library to ensure.
+
+##  Contributors
+
+This is collaboratively developed by the following members as part of a laboratory activity. Each member contributes to the creation, organization, and documentation of the Shared Library of Wisdom.
+
+###  Team Leader | Stylist and Coder
+- Joaquin Aaron Recio
+
+###  Historians
+- Andrei Vincent Parala
+- Aeron Aldep
+- Marc Alvin Quitorio
+- Lawrence V. Cajulis
+
+###  Navigators
+- Markanthony Delatorre
+- Al-jay Rosario
+
+###  Editors
+- Jayson Datinguinoo
+- Cecilia May Navarro
+- Eloisa Papagayo
+- John Henrics Mateo
+- Joshua Layog
+
+---
