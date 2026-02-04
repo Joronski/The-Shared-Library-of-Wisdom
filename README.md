@@ -7,8 +7,8 @@
 ## 📑 Table of Contents
 - 📖 [About](#about)
 - 📁 [File Structure](#file-structure)
+- 📖 [History Facts](#history-facts)
 - 📄 [Project Description](#project-description)
-- 🎯 [Mission](#mission)
 - 🧭 [How to Read the Library](#how-to-read-the-library)
 - 🛠️ [How to Use the Library](#how-to-use-the-library)
 
@@ -114,6 +114,8 @@ Apply theoretical knowledge in a practical setting, allowing you to gain confide
 project, just like in professional software development environments.
 
 *Knowledge Sharing & Accessibility: Building a collective resource that democratizes information, promotes open learning, and ensures that valuable insights are easily accessible to a wide audience.*
+
+***Scalability & Future Growth***: Designing the encyclopedia with adaptability in mind, ensuring it can expand to include new topics, contributors, and technologies without losing structure or clarity.
 
 The encyclopedia is not only a scalable and user-friendly resource but also a living document that evolves with the contributions of its users. It serves as a
 valuable reference tool for learners, developers, and educators, bridging the gap between theory and practical application in software development.
