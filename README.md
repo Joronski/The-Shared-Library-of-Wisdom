@@ -6,6 +6,8 @@
 - [About](#about)
 - [Mission](#mission)
 - [Contributing](#contributing)
+- [How to Read the Library](#how-to-read-the-library)
+- [How to Use the Library](#how-to-use-the-library)
 
 ## About
 A CCS112 - Application and Emerging Technologies Laboratory Activity 3: collaborative Markdown-based digital encyclopedia built using Git workflows.
@@ -15,6 +17,7 @@ A CCS112 - Application and Emerging Technologies Laboratory Activity 3: collabor
 2. Start with the core or main files to understand
 3. Class and function names follow Kotlin naming
 4. Comments are provided to explain important logic
+
 ## HOW TO USE THE LIBRARY
  1. Import the required class or function:
  2. Use `object` for shared or singleton functionality.
