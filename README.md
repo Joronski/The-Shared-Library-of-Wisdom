@@ -119,24 +119,26 @@ project, just like in professional software development environments.
 This is collaboratively developed by the following members as part of a laboratory activity. Each member contributes to the creation, organization, and documentation of the Shared Library of Wisdom.
 
 ###  Team Leader
-- **Joaquin Aaron Recio**
+- Joaquin Aaron Recio
 
 ###  Historians
-- **Andrei Vincent Parala**
-- **Aeron Aldep**
-- **Marc Alvin Quitorio**
-- **Lawrence V. Cajulis**
+- Andrei Vincent Parala
+- Aeron Aldep
+- Marc Alvin Quitorio
+- Lawrence V. Cajulis
 
 ###  Navigators
-- **Markanthony Delatorre**
-- **Al-jay Rosario**
+- Markanthony Delatorre
+- Al-jay Rosario
 
 ###  Editors
-- **Jayson Datinguinoo**
-- **Cecilia May Navarro**
-- **Eloisa Papagayo**
-- **John Henrics Mateo**
-- **Joshua Layog**
+- Jayson Datinguinoo
+- Cecilia May Navarro
+- Eloisa Papagayo
+- John Henrics Mateo
+- Joshua Layog
+
+---
 
 ***Scalability & Future Growth***: Designing the encyclopedia with adaptability in mind, ensuring it can expand to include new topics, contributors, and technologies without losing structure or clarity.
 
