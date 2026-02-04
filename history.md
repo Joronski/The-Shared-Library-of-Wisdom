@@ -8,6 +8,10 @@ Git is Created in 2008 by Tom Preston-Werner, Chris Wanstrath, PJ Hyett and Scot
 
 GitHub grew in popularity almost immediately due to its easy-to-use interface, social-coding features (i.e., forking, pull requests and issue tracking) and strong support for open-source projects. By 2011, GitHub had become the largest publicly accessible source-code host in the world.
 
+## Fact 3
+
+In June of 2018, Microsoft purchased GitHub for $7.5 billion to strengthen its developer ecosystem while maintaining GitHub's openness and independence. Today, GitHub is used by millions of developers; businesses; and other organizations around the globe for software development; collaboration; and project management.
+
 GitHub, Inc. (n.d.). About GitHub. https://github.com/about
 
 Torvalds, L. (n.d.). Git – Distributed Version Control System. https://git-scm.com
