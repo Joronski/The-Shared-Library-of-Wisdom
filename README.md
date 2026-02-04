@@ -8,6 +8,8 @@
 - [Contributing](#contributing)
 - [How to Read the Library](#how-to-read-the-library)
 - [How to Use the Library](#how-to-use-the-library)
+- [Project Structure](#project-structure)
+- [History](#history)
 
 ## About
 A CCS112 - Application and Emerging Technologies Laboratory Activity 3: collaborative Markdown-based digital encyclopedia built using Git workflows.
@@ -23,3 +25,44 @@ A CCS112 - Application and Emerging Technologies Laboratory Activity 3: collabor
  2. Use `object` for shared or singleton functionality.
  3. Use `data class` for structured data models.
  4. Follow existing examples in the library to ensure.
+
+## Project Structure
+```
+.
+├── app
+│   ├── src
+│   │   ├── main
+│   │   │   └── java
+│   │   │       └── com
+│   │   │           └── example
+│   │   │               └── thesharedlibraryofwisdom
+│   │   │                   └── MainActivity.kt
+│   │   ├── test
+│   │   │   └── java
+│   │   │       └── com
+│   │   │           └── example
+│   │   │               └── thesharedlibraryofwisdom
+│   │   │                   └── ExampleUnitTest.kt
+│   │   └── androidTest
+│   │       └── java
+│   │           └── com
+│   │               └── example
+│   │                   └── thesharedlibraryofwisdom
+│   │                       └── ExampleInstrumentedTest.kt
+│   ├── build.gradle.kts
+│   └── proguard-rules.pro
+├── gradle
+├── .gitignore
+├── build.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── README.md
+└── settings.gradle.kts
+```
+
+## History
+- [View History](HISTORY.md)
+
+[//]: # (Navigation links)
+[Back to top](#the-shared-library-of-wisdom)
