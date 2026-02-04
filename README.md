@@ -1,16 +1,18 @@
-# The Shared Library of Wisdom
+# 📚 The Shared Library of Wisdom
 
-<img width="399" height="265" alt="Image" src="https://github.com/user-attachments/assets/3b51ebf4-38a7-4b23-b956-a6363baaba51" />
+<p align="center">
+  <img width="399" height="265" alt="Image" src="https://github.com/user-attachments/assets/3b51ebf4-38a7-4b23-b956-a6363baaba51" />
+</p>
 
-## Table of Contents
-- [About](#about)
-- [Mission](#mission)
-- [Contributing](#contributing)
-- [How to Read the Library](#how-to-read-the-library)
-- [How to Use the Library](#how-to-use-the-library)
+## 📑 Table of Contents
+- 📖 [About](#about)
+- 🎯 [Mission](#mission)
+- 🤝 [Contributing](#contributing)
+- 🧭 [How to Read the Library](#how-to-read-the-library)
+- 🛠️ [How to Use the Library](#how-to-use-the-library)
 
-## About
-A CCS112 - Application and Emerging Technologies Laboratory Activity 3: collaborative Markdown-based digital encyclopedia built using Git workflows.
+## 📖 About
+A CCS112 - Application and Emerging Technologies Laboratory Activity 3: **Collaborative Markdown-based digital encyclopedia built using Git workflows.**
 
 ## PROJECT DESCRIPTION
 
