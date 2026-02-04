@@ -19,4 +19,4 @@ A CCS112 - Application and Emerging Technologies Laboratory Activity 3: collabor
  1. Import the required class or function:
  2. Use `object` for shared or singleton functionality.
  3. Use `data class` for structured data models.
- 4. Follow existing examples in the library to ensure
+ 4. Follow existing examples in the library to ensure.
