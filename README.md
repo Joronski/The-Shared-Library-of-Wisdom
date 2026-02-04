@@ -10,7 +10,7 @@
 ## About
 A CCS112 - Application and Emerging Technologies Laboratory Activity 3: collaborative Markdown-based digital encyclopedia built using Git workflows.
 
-## How to READ THE LIBRARY
+## HOW TO READ THE LIBRARY
 1. The library is organized into Kotlin packages.
 2. Start with the core or main files to understand
 3. Class and function names follow Kotlin naming
