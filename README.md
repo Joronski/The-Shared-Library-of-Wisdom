@@ -6,6 +6,8 @@
 
 ## 📑 Table of Contents
 - 📖 [About](#about)
+- 📁 [File Structure](#file-structure)
+- 📄 [Project Description](#project-description)
 - 🎯 [Mission](#mission)
 - 🤝 [Contributing](#contributing)
 - 🧭 [How to Read the Library](#how-to-read-the-library)
@@ -13,6 +15,83 @@
 
 ## 📖 About
 A CCS112 - Application and Emerging Technologies Laboratory Activity 3: **Collaborative Markdown-based digital encyclopedia built using Git workflows.**
+
+## FILE STRUCTURE
+
+```
+The_Shared_Library_of_Wisdom/
+├── .gradle/
+│   ├── buildOutputCleanup/
+│   ├── caches/
+│   ├── daemon/
+│   └── wrapper/
+│
+├── .idea/
+│   ├── codeStyles/
+│   ├── inspectionProfiles/
+│   ├── libraries/
+│   ├── modules.xml
+│   ├── workspace.xml
+│   └── misc.xml
+│
+├── .kotlin/
+│   ├── caches/
+│   └── sessions/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── thesharedlibraryofwisdom/
+│   │   │   │               └── MainActivity.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── values/
+│   │   │   │   └── drawable/
+│   │   │   └── AndroidManifest.xml
+│   │   │
+│   │   ├── test/
+│   │   │   └── java/
+│   │   │       └── com/
+│   │   │           └── example/
+│   │   │               └── thesharedlibraryofwisdom/
+│   │   │                   └── ExampleUnitTest.kt
+│   │   │
+│   │   └── androidTest/
+│   │       └── java/
+│   │           └── com/
+│   │               └── example/
+│   │                   └── thesharedlibraryofwisdom/
+│   │                       └── ExampleInstrumentedTest.kt
+│   │
+│   ├── build.gradle.kts
+│   └── proguard-rules.pro
+│
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+│
+├── history/
+│   └── git-workflow.md
+│
+├── .gitignore
+├── build.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── local.properties
+├── README.md
+└── settings.gradle.kts
+```
+
+### HISTORY FACTS
+
+Facts's 1 to 3 Facts: https://github.com/Joronski/The-Shared-Library-of-Wisdom/blob/master/history.md
+
+Workflow Facts: https://github.com/Joronski/The-Shared-Library-of-Wisdom/blob/master/history/git-workflow.md
 
 ## PROJECT DESCRIPTION
 
@@ -37,7 +116,6 @@ project, just like in professional software development environments.
 
 The encyclopedia is not only a scalable and user-friendly resource but also a living document that evolves with the contributions of its users. It serves as a
 valuable reference tool for learners, developers, and educators, bridging the gap between theory and practical application in software development.
-
 
 ## HOW TO READ THE LIBRARY
 1. The library is organized into Kotlin packages.
