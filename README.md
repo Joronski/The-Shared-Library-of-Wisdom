@@ -87,7 +87,6 @@ The_Shared_Library_of_Wisdom/
 ├── README.md
 └── settings.gradle.kts
 ```
-
 ### HISTORY FACTS
 
 Facts's 1 to 3 Facts: https://github.com/Joronski/The-Shared-Library-of-Wisdom/blob/master/history.md
@@ -114,6 +113,23 @@ Apply theoretical knowledge in a practical setting, allowing you to gain confide
 project, just like in professional software development environments.
 
 *Knowledge Sharing & Accessibility: Building a collective resource that democratizes information, promotes open learning, and ensures that valuable insights are easily accessible to a wide audience.*
+
+## CONTRIBUTORS / TEAM
+
+This is collaboratively developed by the following members as part of a laboratory activity:
+
+Joaquin Aaron Recio - Team Leader
+Andrei Vincent Parala - Historians
+Aeron Aldep - Historians
+Marc Alvin Quitorio - Historians
+Lawrence V. Cajulis - Historians
+Markanthony Delatorre - Navigators
+Al-jay Rosario - Navigators
+Jayson Datinguinoo - Editor
+Cecilia May Navarro - Editor 
+Eloisa Papagayo - Editor
+John Henrics Mateo - Editor
+Joshua Layog - Editor 
 
 ***Scalability & Future Growth***: Designing the encyclopedia with adaptability in mind, ensuring it can expand to include new topics, contributors, and technologies without losing structure or clarity.
 
