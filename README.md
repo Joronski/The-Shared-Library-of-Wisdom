@@ -9,7 +9,6 @@
 - 📁 [File Structure](#file-structure)
 - 📄 [Project Description](#project-description)
 - 🎯 [Mission](#mission)
-- 🤝 [Contributing](#contributing)
 - 🧭 [How to Read the Library](#how-to-read-the-library)
 - 🛠️ [How to Use the Library](#how-to-use-the-library)
 
