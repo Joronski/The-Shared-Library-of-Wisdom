@@ -79,9 +79,11 @@ The_Shared_Library_of_Wisdom/
 │
 ├── .gitignore
 ├── build.gradle.kts
+├── CONTRIBUTING.md
 ├── gradle.properties
 ├── gradlew
 ├── gradlew.bat
+├── history.md
 ├── local.properties
 ├── README.md
 └── settings.gradle.kts
