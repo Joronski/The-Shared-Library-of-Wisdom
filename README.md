@@ -16,24 +16,26 @@ A CCS112 - Application and Emerging Technologies Laboratory Activity 3: **Collab
 
 ## PROJECT DESCRIPTION
 
-This project is a collaborative digital encyclopedia built using Markdown and Git, designed to showcase the practical application of 
+This project is a collaborative digital encyclopedia built using Markdown and Git, designed to showcase the practical application of
 emerging technologies and modern software development best practices. It emphasizes:
 
-Version Control: 
+Version Control:
 Utilizing Git and GitHub to manage contributions, track changes, and ensure seamless collaboration among team members.
 
 Structured Documentation:
 Leveraging Markdown for clear, consistent, and easily maintainable content, making it accessible for both technical and non-technical users.
 
-Team Collaboration: 
-Encouraging effective teamwork through branching strategies, pull requests, and code reviews, fostering a culture of peer feedback and 
+Team Collaboration:
+Encouraging effective teamwork through branching strategies, pull requests, and code reviews, fostering a culture of peer feedback and
 continuous improvement.
 
 Hands-on Learning Experience:
-Apply theoretical knowledge in a practical setting, allowing you to gain confidence in using Git and Markdown while working on a real collaborative 
+Apply theoretical knowledge in a practical setting, allowing you to gain confidence in using Git and Markdown while working on a real collaborative
 project, just like in professional software development environments.
 
-The encyclopedia is not only a scalable and user-friendly resource but also a living document that evolves with the contributions of its users. It serves as a 
+*Knowledge Sharing & Accessibility: Building a collective resource that democratizes information, promotes open learning, and ensures that valuable insights are easily accessible to a wide audience.*
+
+The encyclopedia is not only a scalable and user-friendly resource but also a living document that evolves with the contributions of its users. It serves as a
 valuable reference tool for learners, developers, and educators, bridging the gap between theory and practical application in software development.
 
 
@@ -44,7 +46,7 @@ valuable reference tool for learners, developers, and educators, bridging the ga
 4. Comments are provided to explain important logic
 
 ## HOW TO USE THE LIBRARY
- 1. Import the required class or function:
- 2. Use `object` for shared or singleton functionality.
- 3. Use `data class` for structured data models.
- 4. Follow existing examples in the library to ensure.
+1. Import the required class or function:
+2. Use `object` for shared or singleton functionality.
+3. Use `data class` for structured data models.
+4. Follow existing examples in the library to ensure.
