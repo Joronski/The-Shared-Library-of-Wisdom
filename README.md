@@ -116,10 +116,10 @@ project, just like in professional software development environments.
 
 ##  Contributors / Team
 
-This project is collaboratively developed by the following members as part of a CCS112 laboratory activity. Each member contributes to the creation, organization, and documentation of the Shared Library of Wisdom.
+This is collaboratively developed by the following members as part of a laboratory activity. Each member contributes to the creation, organization, and documentation of the Shared Library of Wisdom.
 
 ###  Team Leader
-- **Joaquin Aaron Recio** – Project Coordination & Oversight
+- **Joaquin Aaron Recio**
 
 ###  Historians
 - **Andrei Vincent Parala**
