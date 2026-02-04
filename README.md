@@ -114,26 +114,33 @@ project, just like in professional software development environments.
 
 *Knowledge Sharing & Accessibility: Building a collective resource that democratizes information, promotes open learning, and ensures that valuable insights are easily accessible to a wide audience.*
 
-## CONTRIBUTORS / TEAM
+##  Contributors / Team
 
-This is collaboratively developed by the following members as part of a laboratory activity:
+This project is collaboratively developed by the following members as part of a CCS112 laboratory activity. Each member contributes to the creation, organization, and documentation of the Shared Library of Wisdom.
 
-Joaquin Aaron Recio - Team Leader
-Andrei Vincent Parala - Historians
-Aeron Aldep - Historians
-Marc Alvin Quitorio - Historians
-Lawrence V. Cajulis - Historians
-Markanthony Delatorre - Navigators
-Al-jay Rosario - Navigators
-Jayson Datinguinoo - Editor
-Cecilia May Navarro - Editor 
-Eloisa Papagayo - Editor
-John Henrics Mateo - Editor
-Joshua Layog - Editor 
+###  Team Leader
+- **Joaquin Aaron Recio** – Project Coordination & Oversight
+
+###  Historians
+- **Andrei Vincent Parala**
+- **Aeron Aldep**
+- **Marc Alvin Quitorio**
+- **Lawrence V. Cajulis**
+
+###  Navigators
+- **Markanthony Delatorre**
+- **Al-jay Rosario**
+
+###  Editors
+- **Jayson Datinguinoo**
+- **Cecilia May Navarro**
+- **Eloisa Papagayo**
+- **John Henrics Mateo**
+- **Joshua Layog**
 
 ***Scalability & Future Growth***: Designing the encyclopedia with adaptability in mind, ensuring it can expand to include new topics, contributors, and technologies without losing structure or clarity.
 
-The encyclopedia is not only a scalable and user-friendly resource but also a living document that evolves with the contributions of its users. It serves as a
+The encyclopedia is not only a scalable and user-friendly resource but also a living document thatAdd a “Contributors / Team” section evolves with the contributions of its users. It serves as a
 valuable reference tool for learners, developers, and educators, bridging the gap between theory and practical application in software development.
 
 ## HOW TO READ THE LIBRARY
