@@ -11,6 +11,7 @@
 - 📄 [Project Description](#project-description)
 - 🧭 [How to Read the Library](#how-to-read-the-library)
 - 🛠️ [How to Use the Library](#how-to-use-the-library)
+- 👥 [Contributors](#contributors)
 
 ## 📖 About
 A CCS112 - Application and Emerging Technologies Laboratory Activity 3: **Collaborative Markdown-based digital encyclopedia built using Git workflows.**
@@ -87,7 +88,6 @@ The_Shared_Library_of_Wisdom/
 ├── README.md
 └── settings.gradle.kts
 ```
-
 ### HISTORY FACTS
 
 Facts's 1 to 3 Facts: https://github.com/Joronski/The-Shared-Library-of-Wisdom/blob/master/history.md
@@ -117,7 +117,7 @@ project, just like in professional software development environments.
 
 ***Scalability & Future Growth***: Designing the encyclopedia with adaptability in mind, ensuring it can expand to include new topics, contributors, and technologies without losing structure or clarity.
 
-The encyclopedia is not only a scalable and user-friendly resource but also a living document that evolves with the contributions of its users. It serves as a
+The encyclopedia is not only a scalable and user-friendly resource but also a living document thatAdd a “Contributors / Team” section evolves with the contributions of its users. It serves as a
 valuable reference tool for learners, developers, and educators, bridging the gap between theory and practical application in software development.
 
 ## HOW TO READ THE LIBRARY
@@ -131,3 +131,29 @@ valuable reference tool for learners, developers, and educators, bridging the ga
 2. Use `object` for shared or singleton functionality.
 3. Use `data class` for structured data models.
 4. Follow existing examples in the library to ensure.
+
+##  Contributors
+
+This is collaboratively developed by the following members as part of a laboratory activity. Each member contributes to the creation, organization, and documentation of the Shared Library of Wisdom.
+
+###  Team Leader | Stylist and Coder
+- Joaquin Aaron Recio
+
+###  Historians
+- Andrei Vincent Parala
+- Aeron Aldep
+- Marc Alvin Quitorio
+- Lawrence V. Cajulis
+
+###  Navigators
+- Markanthony Delatorre
+- Al-jay Rosario
+
+###  Editors
+- Jayson Datinguinoo
+- Cecilia May Navarro
+- Eloisa Papagayo
+- John Henrics Mateo
+- Joshua Layog
+
+---
